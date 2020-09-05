@@ -13,6 +13,7 @@
 		4017AEAB2503BA5A00059660 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4017AEA92503BA5A00059660 /* Main.storyboard */; };
 		4017AEAD2503BA5D00059660 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4017AEAC2503BA5D00059660 /* Assets.xcassets */; };
 		4017AEB02503BA5D00059660 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4017AEAE2503BA5D00059660 /* LaunchScreen.storyboard */; };
+		4025F3492503C324007817A0 /* BranchDemo.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = 40ABB1C42503BBCF00E7C934 /* BranchDemo.entitlements */; };
 		99DA041AB9521E47F9DA8CE3 /* Pods_BranchDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACD90FA59509B3FB5EFD8574 /* Pods_BranchDemo.framework */; };
 /* End PBXBuildFile section */
 
@@ -153,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4025F3492503C324007817A0 /* BranchDemo.entitlements in Resources */,
 				4017AEB02503BA5D00059660 /* LaunchScreen.storyboard in Resources */,
 				4017AEAD2503BA5D00059660 /* Assets.xcassets in Resources */,
 				4017AEAB2503BA5A00059660 /* Main.storyboard in Resources */,
@@ -362,7 +364,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.branch.BranchDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.branchdemo.trialbrand;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -381,7 +383,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.branch.BranchDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.branchdemo.trialbrand;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

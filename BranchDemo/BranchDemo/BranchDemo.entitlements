@@ -6,6 +6,8 @@
 	<array>
 		<string>applinks:trialbrand.app.link</string>
 		<string>applinks:trialbrand-alternate.app.link</string>
+		<string>applinks:trialbrand-test-app.link</string>
+		<string>applinks:trialbrand-alternate-test-app.link</string>
 	</array>
 </dict>
 </plist>
